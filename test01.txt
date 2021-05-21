@@ -1,1 +1,2 @@
 Git - After long time
+Second line for second commit
